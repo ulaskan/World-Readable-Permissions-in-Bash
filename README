@@ -1,0 +1,13 @@
+Bash script that checks if the users from system have world readable files 
+
+Author: Ulas Askan
+Date: 16 Oct 2016
+
+This program asks a user to input a file name so that the output can be in the file as well as being output on the terminal. 
+
+The script recurses into users that exist on the system and checks for file world readable permissions, therefore the script must be run with root permissions. 
+
+No file permissions is changed by the script.
+
+
+
