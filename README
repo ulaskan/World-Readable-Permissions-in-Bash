@@ -1,6 +1,6 @@
 Bash script that checks if the users from system have world readable files 
 
-Author: Ulas Askan
+Author: ulaskan
 Date: 16 Oct 2016
 
 This program asks a user to input a file name so that the output can be in the file as well as being output on the terminal. 
